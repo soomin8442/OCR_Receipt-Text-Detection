@@ -1,19 +1,18 @@
-<img width="653" alt="image" src="https://github.com/user-attachments/assets/885f5111-8288-4b6d-a43a-797cac8a9465">
-
 # 프로젝트 이름
 - OCR_Receipt-Text-Detection
 <br>
 
 ## 프로젝트 소개
 - 이번 영수증 글자 검출(Receipt Text Detection) 대회는 인공지능 모델을 이용하여 제공된 영수증 이미지에서 문자의 위치를 정확하게 검출하는 문제에 도전하는 대회입니다!
-- 이 문서 분류 모델은 품질 저하된 17종의 문서를 분류할 수 있도록 설계됩니다. 
+- 이 문서 분류 모델은 품질 저하된 17종의 문서를 분류할 수 있도록 설계됩니다.
+<img width="654" alt="스크린샷 2025-02-17 15 19 44" src="https://github.com/user-attachments/assets/05c2f472-fa53-4903-acdb-0ffe29cb6e26" />
 <br>
 
 ## 팀원 구성
 
 <div align="center">
 
-| **문수민** | **팀원 1** | **팀원 2** | **팀원 3** | **팀원 4** |
+| **팀장** | **팀원 1** | **팀원 2** | **팀원 3** | **팀원 4** |
 | :------: |  :------: | :------: | :------: | :------: |
 |[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> @Github]([https://github.com/soomin8442]) |[<img src="https://avatars.githubusercontent.com/u/50396041?v=4" height=150 width=150> <br/> @Github]() |[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> @Github](https://github.com/) |[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> @Pluto-ai](https://github.com/pluto-ai) |[<img src="https://avatars.githubusercontent.com/u/1223020?v=4" height=150 width=150> <br/> @deptno](https://github.com/deptno) |
 </div>
@@ -23,7 +22,7 @@
 ## 1. 개발 환경
 
 - 주 언어 : Python
-- 주 프레임워크 : Pytorch
+- 주 프레임워크 : Pytorch, hydra, PyTorch Lightning
 - 협업 툴 : Github, Slack, Zoom
 <br>
 
